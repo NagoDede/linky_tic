@@ -1,3 +1,6 @@
+#specific files
+secret.h
+
 # Prerequisites
 *.d
 
